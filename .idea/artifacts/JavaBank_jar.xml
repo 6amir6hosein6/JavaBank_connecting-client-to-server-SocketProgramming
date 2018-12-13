@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="JavaBank:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaBank_jar</output-path>
+    <root id="archive" name="JavaBank.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$USER_HOME$/Desktop/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="JavaBank" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/org.json.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/ConnectorJ/mysql-connector-java-5.1.46/mysql-connector-java-5.1.46-bin.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
